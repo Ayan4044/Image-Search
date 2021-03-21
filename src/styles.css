@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.loader_div {
+  display: flex;
+  justify-content: center;
+}
+
+.MuiCircularProgress-colorPrimary {
+  color: #e84545;
+}
