@@ -8,7 +8,7 @@ class SearchScreenContainer extends Component {
     inpVal: "",
     imagesData: [],
     images: "",
-    loader: true
+    loader: false
   };
 
   CallAPi = () => {
